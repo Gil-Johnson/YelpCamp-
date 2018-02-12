@@ -3,9 +3,9 @@ var  mongoose = require("mongoose"),
      Comment = require("./models/comment")
      
      var data = [
-         {name: "Clouds Rest", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3nwFNTXbKAmznUh5JkVl9UARtmKNb5HRnahvZUsoNwx56UNDg", description: "des place holder"},
+         {name: "Cloud 9", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3nwFNTXbKAmznUh5JkVl9UARtmKNb5HRnahvZUsoNwx56UNDg", description: "des place holder"},
          {name: "Goats Peak", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBffclXneW4-OexG2F65s7ocabirXEBcwm1Boe7mmRseWU1RjZ9Q", description: "des place holder for gaots"},,
-         {name: "Hillbilly haven", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-0GhWFQ6pjK0ibF-Ywqfr7IPZxjwi_ScGIM0L0zN-sTI7FFY", description: "hill billys"},
+         {name: "Heaven", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-0GhWFQ6pjK0ibF-Ywqfr7IPZxjwi_ScGIM0L0zN-sTI7FFY", description: "hill billys"},
          ]
  
 function seedDB(){
